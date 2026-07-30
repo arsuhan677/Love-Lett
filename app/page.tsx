@@ -49,14 +49,14 @@ export default function Home() {
         >
           <div className="w-full text-left">
             <span className="bg-pink-100 text-pink-800 text-[10px] sm:text-xs px-2 py-1 rounded-sm font-semibold font-serif">
-              To Crush
+              Dear Friend
             </span>
           </div>
           <div className="flex-1 flex items-center justify-center mt-1 sm:mt-2">
             <p className="text-gray-800 font-medium italic text-sm sm:text-lg leading-relaxed font-serif">
-              Dear friends, don't start guessing... <br />
-              or maybe that's exactly <br />
-              what I want. 🤭❤️
+              Cheers to another year of friendship, laughter, <br />
+              and unforgettable moments. Happy Birthday! <br />
+              May all your dreams come true. 🎂🥳
             </p>
 
           </div>
