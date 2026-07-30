@@ -54,9 +54,9 @@ export default function Home() {
           </div>
           <div className="flex-1 flex items-center justify-center mt-1 sm:mt-2">
             <p className="text-gray-800 font-medium italic text-sm sm:text-lg leading-relaxed font-serif">
-              Cheers to another year of friendship and laughter. <br />
+              Cheers to friendship and laughter. <br />
               Happy Birthday! Wishing you <br />
-              endless happiness and success.
+              happiness and success. 🎉
             </p>
 
           </div>
