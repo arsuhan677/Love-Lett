@@ -56,7 +56,7 @@ export default function Home() {
             <p className="text-gray-800 font-medium italic text-sm sm:text-lg leading-relaxed font-serif">
               Cheers to another year of friendship and laughter. <br />
               Happy Birthday! Wishing you <br />
-              endless happiness and success. 🎉❤️
+              endless happiness and success.
             </p>
 
           </div>
