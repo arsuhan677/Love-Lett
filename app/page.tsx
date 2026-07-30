@@ -54,10 +54,11 @@ export default function Home() {
           </div>
           <div className="flex-1 flex items-center justify-center mt-1 sm:mt-2">
             <p className="text-gray-800 font-medium italic text-sm sm:text-lg leading-relaxed font-serif">
-              Dear crush, you are so beautiful <br />
-              That every time i see you <br />
-              my world stops.
+              Dear friends, don't start guessing... <br />
+              or maybe that's exactly <br />
+              what I want. 🤭❤️
             </p>
+
           </div>
           <div className="flex gap-1.5 sm:gap-2 text-pink-500 mb-1 sm:mb-2">
             <Heart className="w-4 h-4 sm:w-5 sm:h-5" fill="currentColor" />
